@@ -309,7 +309,7 @@ Publish the website in the given URL.
     </div>
   </div>
   <div class="footer">
-    &#169; 2021 Apple Lt., Developed by Chandru.
+  
   </div>
 </div>
 ```
