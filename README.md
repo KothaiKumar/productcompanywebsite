@@ -62,7 +62,7 @@ Publish the website in the given URL.
         <p id="home-p">Everything is designed. Few things are designed well. And those are designed by us.</p>
       </div>
       <div class="footer">
-        &#169; 2021 Apple Lt., Developed by Chandru.
+      
       </div>
     </div>
   </body>
@@ -105,7 +105,7 @@ Publish the website in the given URL.
             <br><br>
       </div>
       <div class="footer">
-        &#169; 2021 Apple Lt., Developed by Chandru.
+       
       </div>
     </div>
   </body>
